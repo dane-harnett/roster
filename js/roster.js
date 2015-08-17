@@ -1,5 +1,5 @@
 (function() {
-  var people = ['Malcolm', 'Nathan', 'Simon', 'Dane', 'Scott', 'Zak', 'Ben'];
+  var people = ['Malcolm', 'Nathan', 'Dane', 'Ben'];
 
   var now = moment();
 
